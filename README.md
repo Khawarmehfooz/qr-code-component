@@ -40,7 +40,7 @@ In this challenge I learned how to make a qr code component using html5 and css3
 
 ## Author
 
-- Website - [Add your name here](https://khawarmehfooz.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/KhawarMehfooz)
+- Website - [Khawar Mehfooz](https://khawarmehfooz.com)
+- Frontend Mentor - [khawarmehfooz](https://www.frontendmentor.io/profile/khawarmehfooz)
+- Twitter - [KhawarMehfooz](https://www.twitter.com/KhawarMehfooz)
 
